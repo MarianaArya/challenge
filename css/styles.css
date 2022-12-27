@@ -1,0 +1,56 @@
+body
+{ background-color: black;
+color: azure;}
+
+h1 { 
+    color: azure;
+}
+.main-text {
+    color: #F2E5E5;
+    padding: 0 100px 0 60px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+    
+}
+.different-color {
+    color: #7A0BC0;
+}
+.left-container
+{
+background-color: #1A1A40;
+width: 500px;
+height: 352px;
+text-align: left;
+position: absolute;
+left: 300px;
+top: 200px;
+border-radius: 8px 0 0 8px;
+}
+h1 { 
+ padding: 30px 100px 0px 60px;
+ 
+}
+table {
+    padding-left: 60px;
+    table-layout: fixed;
+    width: 90%;
+    min-height: min-content;
+}
+.image {
+    position: absolute;
+    bottom: 1px;
+    left: 500px;
+    border-radius: 0px 8px 8px 0px;
+}
+td {
+    font-size: small;
+    color: #F2E5E5;
+    font-family: sans-serif;
+    font-size: 0.7rem;
+   
+}
+th {
+    font-family: sans-serif;
+}
